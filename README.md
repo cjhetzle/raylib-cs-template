@@ -7,7 +7,7 @@
    ```
    - Projects/
        - Raylib-cs/
-       - RayLibCS/
+       - raylib-cs-starter/
    ```
 4) (optional) if you would like to rename the project you will need to edit 3 names
    
